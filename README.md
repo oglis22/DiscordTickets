@@ -6,16 +6,16 @@ Discord Ticket System
 ### credentials
 
 credentials.json
-``json
+```json
 {
     "token": "" // Discord Bot Token
 }
-``
+```
 
 ### tickets
 
 tickets.json
-``json
+```json
 [
     {
         "label": "General Support",
@@ -26,13 +26,13 @@ tickets.json
     }
     //Add more...
 ]
-``
+```
 ### config
 
 config.json
-``
+```json
 {
     "setup_code": "setup_ticket",` // Sned this code into a discord channel to setup the system
     "ticket_category": "" // Ticket Catrgory where the tickets are created
 }
-``
+```
