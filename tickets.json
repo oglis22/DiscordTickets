@@ -1,0 +1,9 @@
+[
+    {
+        "label": "General Support",
+        "description": "Tikcet for general support requests",
+        "value": "general_support",
+        "access_roles": [],
+        "discord_alias": "gs"
+    }
+]
